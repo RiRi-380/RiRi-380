@@ -1,34 +1,62 @@
+```ascii
+   _____  _ _____  _       ____  ___   ___  
+  |  __ \(_)  __ \(_)     |___ \|__ \ / _ \ 
+  | |__) |_| |__) |_ ______ __) |  ) | | | |
+  |  _  /| |  _  /| |______/ __/  / /| | | |
+  | | \ \| | | \ \| |     | |___ / /_| |_| |
+  |_|  \_\_|_|  \_\_|     |_____/____|_____| 
+```
+
 <img align="right" src="https://github.com/RiRi-380/RiRi-380/raw/main/avatar.png" width="200" alt="Avatar">
 
-# 👋 Hello, ミャオです
+# `Hello, World!` 👋 I'm ミャオ
 
-**Gmodアドオン開発者 | 3Dアニメーションエンサイアスト | AI & デジタル技術探求者**
+```python
+class Developer:
+    def __init__(self):
+        self.name = "ミャオ"
+        self.role = "Gmodアドオン開発者"
+        self.language_spoken = ["ja_JP", "en_US"]
+        self.interests = ["3Dアニメーション", "AI", "デジタル技術"]
 
-## 🚀 About Me
-- 🎮 Gmodのアドオン開発と修正とか
-- 🐍 Python, Lua, Reactを学習中
-- 🎾 GTAテニスPC版世界ランク300位代
-- 🌐 [ポートフォリオサイト](https://riri38o.com)
+    def say_hi(self):
+        print("Gmodアドオン開発と修正をしています。よろしくお願いします！")
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+me = Developer()
+me.say_hi()
+```
+
+## 🚀 Tech Stack
+
+```json
+{
+  "languages": ["Python", "Lua", "JavaScript"],
+  "frameworks": ["React", "Next.js"],
+  "tools": ["Git", "Docker", "VS Code"],
+  "learning": ["AI/ML", "3D Modeling"]
+}
+```
 
 ## 🏆 Projects
+
 - 🎮 [Gmodアドオン](https://steamcommunity.com/id/RiRi-380/myworkshopfiles/?appid=4000)
-- 🤖 AIプロジェクト: [準備中...]
+- 🤖 AIプロジェクト: `console.log("Coming soon...");`
 - 🎨 [3Dアニメーション作品](https://x.com/RiRi_Myao51)
 
 ## 📊 GitHub Stats
+
 ![RiRi-380's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiRi-380&show_icons=true&theme=radical)
 
-## 📫 Connect with me
+## 📫 Connect
+
+```bash
+$ curl -X POST https://api.riri38o.com/connect -d '{"message": "Hello, lets collaborate!"}'
+```
+
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://riri38o.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RiRi_Myao51)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/RiRi-380/)
 
 ---
 
-⭐️ From [RiRi-380](https://github.com/RiRi-380)
+`⭐️ From [RiRi-380](https://github.com/RiRi-380)`
