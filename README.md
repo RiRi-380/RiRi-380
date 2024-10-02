@@ -3,12 +3,12 @@
 
 # 👋 Hello, ミャオです
 
-**Gmodアドオン開発者 | 3Dアニメーションエンサイアスト | AI & デジタル技術探求者**
+**Gmodアドオン開発者 | 3Dアニメーション | AI & デジタルとか**
 
 ## 🚀 About Me
 - 🎮 Gmodのアドオン開発と修正とか
 - 🐍 Python, Lua, Reactを学習中
-- 🎾 GTAテニスPC版世界ランク300位代
+- 🎾 GTAテニスPC版世界ランク300位台
 - 🌐 [ポートフォリオサイト](https://riri38o.com)
 
 ## 💻 Tech Stack
