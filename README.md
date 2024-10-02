@@ -1,6 +1,6 @@
-![Header](https://raw.githubusercontent.com/RiRi-380/RiRi-380/main/header.png)
+<img src="https://github.com/RiRi-380/RiRi-380/raw/main/header.png" alt="Header" width="100%">
 
-<img align="right" src="https://raw.githubusercontent.com/RiRi-380/RiRi-380/main/avatar.png" width="200" />
+<img align="right" src="https://github.com/RiRi-380/RiRi-380/raw/main/avatar.png" width="200" alt="Avatar">
 
 # 👋 Hello, ミャオです
 
