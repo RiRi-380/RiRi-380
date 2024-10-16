@@ -1,5 +1,5 @@
 <div align="center">
-  <pre>
+  <pre style="line-height: 1;">
    ______  __  ______  __          ______  ______  ______ 
   |   __ \|__||   __ \|__| ______ |__    ||  __  ||      |
   |      <|  ||      <|  ||______||__    ||  __  ||  --  |
@@ -23,7 +23,7 @@
 ---
 
 ## 💻 Tech Stack
-<div align="center">
+<div align="center" style="padding: 0;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -41,15 +41,15 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiRi-380&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RiRi-380&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiRi-380&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiRi-380&layout=compact&theme=default&hide_border=true&bg_color=ffffff" alt="Top Languages" />
 </div>
 
 ---
 
 ## 📫 Connect with me
-<div align="center">
+<div align="center" style="padding: 0;">
   <a href="https://riri38o.com" target="_blank">
     <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
@@ -64,3 +64,4 @@
 ---
 
 ⭐️ From [RiRi-380](https://github.com/RiRi-380)
+
