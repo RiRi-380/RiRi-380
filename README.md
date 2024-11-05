@@ -10,7 +10,7 @@
   
   <h3 style="margin: 5px;">👋 Hello, ミャオです</h3>
   <p style="margin: 5px 0; font-size: 14px;"><strong>Gmodアドオン開発者 | 3Dアニメーション | AI & デジタルとか</strong></p>
-  <p style="font-size: 12px;">🎮 Gmodのアドオン開発 | 🐍 Python, Lua, React 学習中 | 🎾 GTAテニスPC版世界ランク300位台</p>
+  <p style="font-size: 12px;">🎮 Gmodのアドオン開発 | 🐍 Python, Lua, React 学習中 | 🎾 GTAテニスPC版世界ランク200位台</p>
   <a href="https://riri38o.com" target="_blank" style="font-size: 12px; color: #0366d6;"><strong>ポートフォリオサイト</strong></a>
 </div>
 
