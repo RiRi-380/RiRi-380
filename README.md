@@ -1,14 +1,5 @@
-<div align="center" style="line-height: 1.2;">
-  <pre style="font-size: 13px; margin: 0;">
-   ______  __  ______  __          ______  ______  ______ 
-  |   __ \|__||   __ \|__| ______ |__    ||  __  ||      |
-  |      <|  ||      <|  ||______||__    ||  __  ||  --  |
-  |___|__||__||___|__||__|        |______||______||______|
-  </pre>
-
-  <img src="https://github.com/RiRi-380/RiRi-380/raw/main/avatar.png" width="120" alt="Avatar" style="border-radius: 50%; border: 2px solid #3b5998; margin-top: 10px;" />
   
-  <h3 style="margin: 5px;">👋 Hello, ミャオです</h3>
+  <h3 style="margin: 5px;">👋 Hello</h3>
   <p style="margin: 5px 0; font-size: 14px;"><strong>Gmodアドオン開発者 | 3Dアニメーション | AI & デジタルとか</strong></p>
   <p style="font-size: 12px;">🎮 Gmodのアドオン開発 | 🐍 Python, Lua, React 学習中 | 🎾 GTAテニスPC版世界ランク200位台</p>
   <a href="https://riri38o.com" target="_blank" style="font-size: 12px; color: #0366d6;"><strong>ポートフォリオサイト</strong></a>
