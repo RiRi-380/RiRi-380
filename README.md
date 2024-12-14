@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-**Gmodアドオン開発者** | **3Dアニメーター** | **AI & デジタル系に興味アリ**
+**Gmodアドオン開発者** | **3Dアニメーター（笑）** | **AI探求者**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://riri38o.com)
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RiRi_Myao51)
@@ -17,7 +17,7 @@
 - 🎮 **Gmodアドオン開発者**: Garry's Mod用のアドオンを制作・公開しています  
 - 🐍 **Languages**: Python, Lua, Reactを中心に学習中  
 - 🎾 **GTAテニスPC版**: 世界ランク200位台  
-- 🎨 **3Dアニメーション**: 創作中！  
+- 🎨 **3Dアニメーション**: ポートフォリオサイトで気まぐれに更新  
 - 🤖 **AI関連プロジェクト**: 準備中...  
 
 ---
