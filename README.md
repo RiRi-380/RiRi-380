@@ -2,7 +2,7 @@
 
 どうも。
 
-**Gmodアドオン開発者** | **3D探求者** | **AI探求者**
+**Gmodアドオン開発者** | **3D** | **AI**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://riri38o.com)
 [![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RiRi_Myao51)
