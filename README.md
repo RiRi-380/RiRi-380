@@ -22,17 +22,6 @@
 
 ---
 
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
----
-
 ### 🎨 Projects & Works
 
 - **Gmodアドオン**: [Workshop Files](https://steamcommunity.com/id/RiRi-380/myworkshopfiles/?appid=4000)  
