@@ -2,8 +2,6 @@
 
 どうも。
 
-**Gmodアドオン開発者** | **3D** | **AI**
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://riri38o.com)
 [![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RiRi_Myao51)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/RiRi-380/)
